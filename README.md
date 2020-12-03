@@ -13,4 +13,4 @@ An then run the container.
 
 Or simple pull the code an install the dependencies.
 
-`npm init`
+`npm install`
